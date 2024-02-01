@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Cute+Font&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+body {
+  font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #191d28;
+  }
+  
+  header {
+    background-color: #3f3f3f;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: #191d28;
+  }
+  
+
+  #logo{
+    width: 20%;
+    height: 20%;
+    background-color:#191d28;
+  }
+  .nav-info{
+    background-color:#191d28 ;
+    padding: 4%;
+  }
+  #buttons
+  {
+    padding-left: 15%;
+    
+  }
+  #dropdown{
+    padding-left: 10px;
+  }
+  #butn
+  {
+    padding-left: 10px;
+  }
+
+
+ #tablebody th
+ {
+  background-color: #191d28;
+  color: gray;
+ }
+ #tablebody td
+ {
+  background-color: #2e3241;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+ }
